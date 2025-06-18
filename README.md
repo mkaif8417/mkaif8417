@@ -27,22 +27,21 @@ I'm a full-stack developer who loves crafting clean, scalable web applications. 
 </h2>
 
 <div  >
-  <h4 align="left" >Programing Language: </h4><img align="centre" src="https://skillicons.dev/icons?i=html,css,python,js," />
+  <h4 align="left" >🧑‍💻Programing Language: </h4><img align="centre" src="https://skillicons.dev/icons?i=html,css,python,js," />
  
 
-   <h4  >Libraries And Frameworks:</h4>
+   <h4  >🧩Libraries And Frameworks:</h4>
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,express" />
 
-  <h4>Backend And Api:</h4>
+  <h4>🛠️ Backend And Api:</h4>
   <img src="https://skillicons.dev/icons?i=nodejs,django,flask" />
 
-<h4>DataBase:</h4>
+<h4>🗄️DataBase:</h4>
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
 
-<h4>Other Tools and Softwares:</h4>
+<h4>🧰Other Tools and Softwares:</h4>
 <img src="https://skillicons.dev/icons?i=discordjs,github,vercel,netlify" />
 
-</div>
 
 <h2 align="left">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
