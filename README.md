@@ -1,9 +1,8 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
 <h1 > Hey, I'm MOHD KAIF– aka KaifTech 👨‍💻</h1>
-
-<p align="center">
-  💻 Front-End Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;YouTuber+@pedrotechnologies;" alt="Typing SVG" />
+</div>
 
 ---
 
