@@ -1,4 +1,5 @@
-<h1 align="center" font >👋 Hey, I'm MOHD KAIF– aka KaifTech 👨‍💻</h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+<h1 align="center" font > Hey, I'm MOHD KAIF– aka KaifTech 👨‍💻</h1>
 
 <p align="center">
   💻 Front-End Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner
