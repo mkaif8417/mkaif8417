@@ -16,6 +16,10 @@
   About Me 
 </h2>
 I'm a full-stack developer who loves crafting clean, scalable web applications. My goal is to build solutions that deliver exceptional performance and a delightful user experience. 
+<li>💻 Passionate about building fullstack apps with React, Next.js, JavaScript</li>
+<li>🧠 Constantly learning & sharing what I learn</li>
+<li>🛠️ Focused on performance, developer experience, and clean UI</li>
+
 
 <h2 align="left">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" height="20px">
