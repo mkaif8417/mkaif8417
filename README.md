@@ -29,10 +29,10 @@ I'm a Full-Stack developer who loves crafting clean, scalable web applications. 
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,express" />
 
   <h4>🛠️ Backend And Api:</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django" />
 
 <h4>🗄️DataBase:</h4>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 <h4>🧰Other Tools and Softwares:</h4>
 <img src="https://skillicons.dev/icons?i=discordjs,github,vercel,netlify" />
