@@ -6,13 +6,13 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+MERN+Enthusiast;" alt="Typing SVG" />
 </div>
 <h2 align="left">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
   About Me 
 </h2>
-I'm a full-stack developer who loves crafting clean, scalable web applications. My goal is to build solutions that deliver exceptional performance and a delightful user experience. 
+I'm a Full-Stack developer who loves crafting clean, scalable web applications. My goal is to build solutions that deliver exceptional performance and a delightful user experience. 
 <li>💻 Passionate about building fullstack apps with React, Next.js, JavaScript</li>
 <li>🧠 Constantly learning & sharing what I learn</li>
 <li>🛠️ Focused on performance, developer experience, and clean UI</li>
