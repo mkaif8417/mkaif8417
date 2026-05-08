@@ -27,7 +27,7 @@ I'm a Full-Stack developer who loves crafting clean, scalable web applications. 
 
  
 <h4>🧩 Libraries And Frameworks:</h4>
-<img src="https://skillicons.dev/icons?i=react,angular,tailwind,express,react" />
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind,express" />
 
   <h4>🛠️ Backend And Api:</h4>
   <img src="https://skillicons.dev/icons?i=nodejs,django" />
